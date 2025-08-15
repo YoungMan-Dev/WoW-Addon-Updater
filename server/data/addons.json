@@ -1,0 +1,41 @@
+{
+  "!BugGrabber": {
+    "version": "1.0.1",
+    "download_url": "123",
+    "update_code": "JEPNPJM6",
+    "created_at": "2025-08-15T01:26:48.263001",
+    "updated_at": "2025-08-15T01:26:48.263001"
+  },
+  "AddOnSkins": {
+    "version": "4.74",
+    "download_url": "123",
+    "update_code": "JEPNPJM6",
+    "created_at": "2025-08-15T01:26:56.200034",
+    "updated_at": "2025-08-15T01:26:56.200034"
+  },
+  "Auctionator": {
+    "version": "1.0.1",
+    "download_url": "1",
+    "update_code": "5UQ5888Q",
+    "created_at": "2025-08-15T01:38:56.589934",
+    "updated_at": "2025-08-15T01:38:56.589934"
+  },
+  "AutoSellLowLevelGear": {
+    "version": "1.5",
+    "download_url": "1",
+    "update_code": "5UQ5888Q",
+    "created_at": "2025-08-15T01:38:30.537431",
+    "updated_at": "2025-08-15T01:38:30.537431"
+  },
+  "MeetingStone": {
+    "version": "11.2.0",
+    "download_url": "https://q1080.webgetstore.com/2025/08/08/66912882174868bb2ccffd099423e2ca.zip?sg=3119cee601655ac4477efae435874c18&e=689e9a4d&fileName=MeetingStone0808.zip&fi=248622408",
+    "original_url": "https://q1080.webgetstore.com/2025/08/08/66912882174868bb2ccffd099423e2ca.zip?sg=3119cee601655ac4477efae435874c18&e=689e9a4d&fileName=MeetingStone0808.zip&fi=248622408",
+    "update_code": "PPE2KJ3K",
+    "created_at": "2025-08-15T10:42:55.714331",
+    "updated_at": "2025-08-15T10:42:55.714331",
+    "url_conversion": "检测到文件扩展名，认为是直链",
+    "url_status": "valid",
+    "url_test_message": "有效的下载链接 (类型: application/zip, 大小: 1509478 bytes)"
+  }
+}

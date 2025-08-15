@@ -1,0 +1,7 @@
+更新器启动错误:
+Traceback (most recent call last):
+  File "C:\Users\Young\PycharmProjects\WoW-Addon-Updater\updater\main.py", line 131, in <module>
+    main()
+  File "C:\Users\Young\PycharmProjects\WoW-Addon-Updater\updater\main.py", line 95, in main
+    splash.finish(main_window)
+KeyboardInterrupt
